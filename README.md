@@ -8,3 +8,7 @@
 - Data Wrangling
 - Logistic Regression
 - Confusion Matrices
+- Data Cleaning
+- Feature Engineering
+- Ethical Artificial Intelligence
+- Neural Networks in Keras
