@@ -5,3 +5,6 @@
 - Linear Regression
 - K-Nearest Neighbors
 - K-Folds Cross Validation
+- Data Wrangling
+- Logistic Regression
+- Confusion Matrices
