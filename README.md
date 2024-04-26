@@ -12,3 +12,4 @@
 - Feature Engineering
 - Ethical Artificial Intelligence
 - Neural Networks in Keras
+- Deep Learning (Convolutional Neural Networks)
