@@ -13,3 +13,5 @@
 - Ethical Artificial Intelligence
 - Neural Networks in Keras
 - Deep Learning (Convolutional Neural Networks)
+- Image Classification
+- Natural Language Processing
